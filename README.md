@@ -100,9 +100,15 @@ Usages:
 * Switch to this Week view: Tasks Management Tool home >> Click to WEEK
 * Switch to this Month view: Tasks Management Tool home >> Click to MONTH
 * Filter assigned task by group: Tasks Management Tool home >> Click to Group box >> Select a suitable group
-* Show tasks reported by me: Tasks Management Tool home >> Check to "Tasks own by me"
 * View/Update task detail: Tasks Management Tool home >> Click to item's setting button
 * View tasks in calendar page: Tasks Management Tool home >> Click to Calendar button
+* For collaboration groups:
+    * create a space for a collaboration group first, calendar of the group will be come the group collaboration calendar
+    * set the management tool filter group to the correct collaboration group
+    * create/manage/review/do tasks as normal
+
+    
 Note:
 --------------------
 * Groups: All/Private/GroupXYZ
+* Create new task should use current selected group as default
