@@ -1,15 +1,17 @@
 High effective Tasks Management Tool for individuals and collaboration
 ============
 
+<img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/CodeFest3.1.jpg" width="800">
+
 Overview:
 --------------------
 * High effective Tasks Management Tool for individual and collaboration aim to help users to have a simple, smart and helpful task management tool.
-    The tool planned to be implemented in 2 best fit user interfaces: web interface, mobile application interface. Both usages should have the same behaviors and main features. Thus, it's always at one's finger tips or in one's pocket. 
+* The tool planned to be implemented in 2 best fit user interfaces: web interface, mobile application interface. Both usages should have the same behaviors and main features. Thus, it's always at one's finger tips or in one's pocket. 
 
 * The tools features target to be an effective tasks management tool for individuals by its smart algorithms: algorithm to suggest things to be done via prioritizing methodologies; and algorithm to optimize tasks should be done together. It also have on time reminding about: due date, task update,...
-    The smart suggestions/organization will help an assignee just to focus in tasks have to do but not to think of organizing tasks queue which usually cause people to lost focus.
-    If the tool success to be an effective assistant for individuals => many people will use it => they know about eXo.
-    If it is well known to be a tool for individuals and collaboration => many groups of people will regist and experiment eXo Cloud.
+* The smart suggestions/organization will help an assignee just to focus in tasks have to do but not to think of organizing tasks queue which usually cause people to lost focus.
+* If the tool success to be an effective assistant for individuals => many people will use it => they know about eXo.
+* If it is well known to be a tool for individuals and collaboration => many groups of people will regist and experiment eXo Cloud.
 
 <img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/collaboration_2.jpg" width="800">
 
@@ -78,7 +80,6 @@ Usages:
 * Show tasks reported by me: Tasks Management Tool home >> Check to "Tasks own by me"
 * View/Update task detail: Tasks Management Tool home >> Click to item's setting button
 * View tasks in calendar page: Tasks Management Tool home >> Click to Calendar button
-
 Note:
 --------------------
 * Groups: All/Private/GroupXYZ
