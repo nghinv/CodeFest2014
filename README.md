@@ -20,6 +20,10 @@ High effective tasks management tools for individual and collaboration
 -- Full control hosts
 -- Simple and helpful feature: maybe task management is what just needed
 
+<table>
+<tr><td>I.</td><td>On Mobile</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status/apply.svg" /> </td></tr>
+<tr><td>II.</td><td>On Web</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status/stop-hand.svg" /> </td></tr>
+</table>
 
 License
 ===============
