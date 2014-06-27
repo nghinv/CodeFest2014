@@ -21,8 +21,28 @@ High effective tasks management tools for individual and collaboration
 -- Simple and helpful feature: maybe task management is what just needed
 
 <table>
-<tr><td>I.</td><td>On Mobile</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" /> </td></tr>
-<tr><td>II.</td><td>On Web</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/stop-hand.png" /> </td></tr>
+<tr><td>I.</td><td>On Web</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" /> </td></tr>
+<tr><td>&nbsp;1.</td>-- Add new tasks form >> update to calendar<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" /> </td></tr>
+<tr><td>&nbsp;2.</td>-- Switch view (Day/Week/Month): reload data from calendar repository, update the view<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" /> </td></tr>
+<tr><td>&nbsp;3.</td>-- Refresh view: reload data from calendar repository, update the view<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" /> </td></tr>
+<tr><td>&nbsp;4.</td>-- Change group: reload data from calendar repository, update the view with selected group<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" /> </td></tr>
+<tr><td>&nbsp;5.</td>-- Switch to full featured calendar<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" /> </td></tr>
+<tr><td>&nbsp;6.</td>-- Drag and drop, update status from Open to Inprogress and vice versa<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" /> </td></tr>
+<tr><td>&nbsp;7.</td>-- Drag and drop, update status from Inprogress to Done and vice versa<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" /> </td></tr>
+<tr><td>&nbsp;8.</td>-- Reflect done and inprogress in the Timeline view<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" /> </td></tr>
+<tr><td>&nbsp;9.</td>-- View task detail info<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" /> </td></tr>
+<tr><td>&nbsp;10.</td>-- Edit task detail info<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" /> </td></tr>
+<tr><td>II.</td><td>On Mobile</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/stop-hand.png" /> </td></tr>
+<tr><td>&nbsp;1.</td>-- Add new tasks form >> update to calendar<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/stop-hand.png" /> </td></tr>
+<tr><td>&nbsp;2.</td>-- Switch view (Day/Week/Month): reload data from calendar repository, update the view<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/stop-hand.png" /> </td></tr>
+<tr><td>&nbsp;3.</td>-- Refresh view: reload data from calendar repository, update the view<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/stop-hand.png" /> </td></tr>
+<tr><td>&nbsp;4.</td>-- Change group: reload data from calendar repository, update the view with selected group<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/stop-hand.png" /> </td></tr>
+<tr><td>&nbsp;5.</td>-- Switch to full featured calendar<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/stop-hand.png" /> </td></tr>
+<tr><td>&nbsp;6.</td>-- Drag and drop, update status from Open to Inprogress and vice versa<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/stop-hand.png" /> </td></tr>
+<tr><td>&nbsp;7.</td>-- Drag and drop, update status from Inprogress to Done and vice versa<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/stop-hand.png" /> </td></tr>
+<tr><td>&nbsp;8.</td>-- Reflect done and inprogress in the Timeline view<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/stop-hand.png" /> </td></tr>
+<tr><td>&nbsp;9.</td>-- View task detail info<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/stop-hand.png" /> </td></tr>
+<tr><td>&nbsp;10.</td>-- Edit task detail info<td></td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/stop-hand.png" /> </td></tr>
 </table>
 
 License
