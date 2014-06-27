@@ -19,12 +19,12 @@ Noteworthy points:
 --------------------
 * Support Standalone (web interface or mobile app interface) & Collaboration
 * Simple, Unique and friendliness interface; fit to mobile phones.
-* Painless fully integrated to PLF, plugable on PLF
+* Painless fully integrated to PLF, plugable on PLF. Integarate and enhance eXo calendar, social space and activity also.
 * Visualized timeline (like gantt chart) that is helpful for an over look of tasks done/running.
-* Synchronization between: mobiles/computers
-* Smart tasks status checking and warning
-* Smart tasks suggestion
-* Smart tasks optimization
+* Synchronization between: mobiles/computers.
+* Smart tasks status checking and warning.
+* Smart tasks suggestion.
+* Smart tasks optimization.
 
 Features:
 --------------------
