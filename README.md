@@ -51,21 +51,23 @@ Noteworthy points:
 
 Features:
 --------------------
-                <table class="table table-striped table-bordered table-hover" id="benchmarks">
-                  <thead>
-                    <tr>
-                      <th>#</th>
-                      <th>Subject</th>
-                      <th>Implementation Status</th>
-		    </tr>
-                  </thead>
-                  <tbody>
-                  <tr><td>I.</td><td>Enhancement and Integration to eXo Calendar, Platform and Portal services</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
+
+
+<table>
+<thead>
+  <tr>
+    <th>#</th>
+    <th>Subject</th>
+    <th>Implementation Status</th>
+  </tr>
+</thead>
+<tbody>
+<tr><td>I.</td><td>Enhancement and Integration to eXo Calendar, Platform and Portal services</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
 <tr><td>&nbsp;1.</td><td>-- Use all eXo Calendar standard services</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
-<tr><td>&nbsp;1.1</td><td>--- Create/Read/Update/Delete personal tasks in personal calendars</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
-<tr><td>&nbsp;1.2</td><td>--- Create/Read/Update/Delete space tasks in spaces calendars</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
-<tr><td>&nbsp;1.2</td><td>--- Read spaces informations/personal information</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
-<tr><td>&nbsp;1.3</td><td>--- Provide services to query calendars by views' filters (assignee, calendar group/type)</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
+<tr><td>&nbsp;1.1</td><td>-- Create/Read/Update/Delete personal tasks in personal calendars</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
+<tr><td>&nbsp;1.2</td><td>-- Create/Read/Update/Delete space tasks in spaces calendars</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
+<tr><td>&nbsp;1.2</td><td>-- Read spaces informations/personal information</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
+<tr><td>&nbsp;1.3</td><td>-- Provide services to query calendars by views' filters (assignee, calendar group/type)</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
 <tr><td>II.</td><td>On Web</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
 <tr><td>&nbsp;1.</td><td>-- Add new tasks form &nbgt;&nbgt; update to calendar</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
 <tr><td>&nbsp;2.</td><td>-- Switch view (Day/Week/Month): reload data from calendar repository, update the view</td><td><img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/status_png/apply.png" alt="Implemented"/> </td></tr>
