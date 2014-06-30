@@ -106,6 +106,10 @@ Features:
 
 Usages:
 --------------------
+URL: http://codefest-4.1-m2-codefest-team_b.acceptance5.exoplatform.org/portal/intranet/home
+Account: root/gtn
+Tool home page: http://codefest-4.1-m2-codefest-team_b.acceptance5.exoplatform.org/portal/intranet/TeamB
+
 
 Before being able to use the tool, you need to join a group (space) which tasks will be managed. So: look for your collaboration group, join to that group. Or: create your own collaboration group, invite members and manage tasks within the group.
 Within a task you can give comments to the tasks. So that, related people can see the status.
