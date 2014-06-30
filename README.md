@@ -29,18 +29,19 @@ Overview:
 * The tool planned to be implemented in 2 best fit user interfaces: web interface, mobile application interface. Both usages should have the same behaviors and main features. Thus, it's always at one's finger tips or in one's pocket. 
 
 * The tool's features target to be an effective tasks management tool for individuals by its smart algorithms:
-    * algorithm to suggest things to be done via prioritizing methodologies
-    * algorithm to optimize tasks should be done together
+    * Algorithm to suggest things to be done via prioritizing methodologies
+    * Algorithm to optimize tasks should be done together => improve effectiveness, ease multi tasking
     * It also have on time reminding about: due date, task update,...
 * The smart suggestions/organization will help assignees just to focus in tasks to do but not to think of organizing tasks queue which usually cause people to lost focus.
 * While the tool success to be an effective assistant for individuals => many people will use it => they know about eXo.
-* While it is well known to be a tool for individuals and collaboration => many groups of people will register and experiment eXo Cloud.
+* While it got well known to be a helpful tool for individuals and collaboration => many groups of people will register and experiment eXo Cloud.
 
 <img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/collaboration_2.jpg" width="800">
 
 Noteworthy points:
 --------------------
 * Support Standalone (web interface or mobile app interface) & Collaboration
+* Strong in collaboration as it uses standard eXo Platform social intranet collaboration features: space/group, activity, notification
 * Simple, Unique and friendliness interface; fit to mobile phones.
 * Painless fully integrated to PLF, pluggable on PLF. Integrate and enhance eXo calendar, social space and activity also.
 * Visualized timeline (like gantt chart) that is helpful for an over look of tasks done/running.
@@ -106,10 +107,10 @@ Features:
 Usages:
 --------------------
 
-Before being able to use the tool, you need to join a group (space) which tasks will be managed.
-So: look for your collaboration group, join to that group. Or: create your own collaboration group, invite members and manage tasks within the group.
+Before being able to use the tool, you need to join a group (space) which tasks will be managed. So: look for your collaboration group, join to that group. Or: create your own collaboration group, invite members and manage tasks within the group.
+Within a task you can give comments to the tasks. So that, related people can see the status.
 
-* Basic function
+* Basic functions
     * Create a new task:
         * Tasks Management Tool home
         * Click to Add Task
@@ -119,6 +120,9 @@ So: look for your collaboration group, join to that group. Or: create your own c
         * Tasks Management Tool home
         * In the Open list
         * Drag and Drop an item to Inprogress list
+    * Give status:
+        * Click to edit button in the same line of the task => a task detail form would be showed
+        * Click to (PLF) add comment indicator, give comment and post it.
     * Finish a task:
         * Tasks Management Tool home
         * In the Inprogress list
@@ -146,7 +150,25 @@ So: look for your collaboration group, join to that group. Or: create your own c
     * create/manage/review/do tasks as normal
 
     
-Note:
+Sceenshots:
 --------------------
-* Groups: All/Private/GroupXYZ
-* Create new task should use current selected group as default
+* Task timeline view of this week
+<img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/TASK_TIMELINE_VIEW_OF_THIS_WEEK.png" width="800">
+<br/>
+
+* Real time activity stream
+<img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/REAL_TIME_ACTIVITIES_STREAM.png" width="800">
+<br/>
+
+* Task timeline view of this month
+<img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/MONTH_VIEW.png" width="800">
+<br/>
+
+* Give comments
+<img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/GIVE_COMMENTS.png" width="800">
+<br/>
+
+
+* Add a task
+<img src="https://raw.githubusercontent.com/nghinv/CodeFest2014/master/documentation/images/ADD_TASK.png" width="800">
+<br/>
